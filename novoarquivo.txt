@@ -1,0 +1,2 @@
+Este é um novo arquivo que ira ficar em uma espaço intervalado chamado 
+working copy
